@@ -1,0 +1,151 @@
+#oldal{
+  font-family: 'Josefin Sans', sans-serif;
+  margin: auto;
+  width: 1200px;
+}
+
+.fejléc{
+  padding: 0;
+  position: relative;
+  margin: 0;
+  margin-right: auto;
+  margin-left: auto;
+  width: 1200px;
+}
+
+img{
+  max-width: 100%;
+  height: auto;
+  top: 0;
+  left: 0;
+  margin: 0px;
+}
+
+.cím.egy{
+  padding: 0;
+  margin: 0;
+  position: absolute;
+  top: 59%;
+  left: 23%;
+  font-size: 30px;
+  font-family: 'Abril Fatface', cursive;
+  color: #222;
+}
+
+.cím.kettő{
+  padding: 0;
+  margin: 0;
+  position: absolute;
+  top: 67%;
+  left: 23%;
+  font-size: 65px;
+  font-family: 'Abril Fatface', cursive;
+  color: #222;
+}
+
+.bekezdes{
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 17px;
+  width:650px;
+  padding-left:100px;
+  margin-top: 50px;
+}
+
+.felsorolas{
+  list-style-type: square;
+  padding:0;
+  margin-left: 40px;
+  width: 600px;
+  padding-left:100px;
+  font-size: 17px;
+}
+
+p{
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 13px;
+  width:650px;
+  padding-left:100px;
+}
+
+ul{
+  list-style-type: square;
+  padding:0;
+  margin-left: 40px;
+  width: 600px;
+  padding-left:100px;
+  font-size: 14px;
+}
+
+blockquote::before{
+  content:'“';
+  font-size: 150px;
+  position: absolute;
+  top:-52px;
+  left: -2px;
+  margin: 0 0 0 0;
+  padding: 0;
+}
+
+blockquote{
+  position: relative;
+  color: #fff;
+ background: #444;
+  font-family: 'Abril Fatface', cursive;
+  font-size: 44px;
+  text-align: left;
+  padding: 50px 50px;
+  width: 650px;
+  margin: auto;
+  margin-top: 50px;
+}
+
+h2{
+  font-weight: 900;
+  font-size: 20px;
+  text-transform: uppercase; 
+  width: 700px;
+  padding-left:100px;
+  margin-top: 45px;
+  margin-bottom: 45px;
+}
+
+h3{
+  font-weight:900;
+  font-size: 22px;
+  width: 660px;
+  padding-left:100px;
+  margin-bottom: 0;
+  margin-top: 40px;
+}
+
+h4{
+  font-family: 'Merriweather', serif;
+  font-size: 15px;
+  font-style: italic;
+  width: 700px;
+  padding-left:100px;
+  margin-top: 0px;
+}
+
+#lablec{
+  border-top: solid black 4px;
+  line-height: 1.35;
+  width: 700px;
+  margin: 50px auto 0px auto;
+  padding:0;
+}
+
+#fooldal{
+  margin-right: auto;
+  margin-left: auto;
+  width: 850px;
+  line-height:1.5;
+}
+
+.lableccim{
+  padding-left: 20px;
+}
+
+.lablecfels{
+  padding-left: 20px;
+}
